@@ -1,0 +1,5 @@
+p.description, span.description { font-style: normal; color: #888; text-transform:capitalize; }
+span.ex {color: #646464; border-bottom: 2px solid #bd6d33; font-weight: bold; font-size: 14px; text-transform:none; }
+span.read { color: #bd6d33; font-size: 14px; font-weight: bold; text-transform:uppercase; }
+.wrap .bxsetting { background:url(../images/icon_6.png) no-repeat left center; width:45px; height:45px; display:inline-block; vertical-align:top; margin-right:5px; margin-top:-5px; margin-left:-22px; }
+.wrap .bxsetting:hover { background:url(../images/icon_6h.png) no-repeat left center; width:45px; height:45px; display:inline-block; vertical-align:top; margin-right:5px; margin-top:-5px; margin-left:-22px; }
